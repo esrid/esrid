@@ -64,8 +64,11 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=esrid&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esrid&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esrid&theme=radical" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=esrid&theme=radical" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esrid&theme=radical" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=esrid&theme=radical" height="160em"/>
 
 <br/>
 
