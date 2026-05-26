@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=220&section=header&text=esrid&fontSize=60&fontColor=CC0000&animation=twinkling&fontAlignY=36&desc=%E2%80%A2%20demon%20%E2%80%A2%20go%20%E2%80%A2%20js%20%E2%80%A2%20sql%20%E2%80%A2&descAlignY=56&descAlign=50&descColor=FF4444" width="100%"/>
+<img src="https://raw.githubusercontent.com/esrid/esrid/main/assets/wave-header.svg" width="100%"/>
+
+<br/>
+
+### `esrid`
+#### • demon • go • js • sql •
 
 <img src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/characters/png/1.png" width="180"/>
 
@@ -123,6 +128,6 @@
 
 <img src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/characters/png/1.png" width="100"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=140&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/esrid/esrid/main/assets/wave-footer.svg" width="100%"/>
 
 </div>
