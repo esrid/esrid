@@ -6,11 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=CC0000&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=ship+code+in+blood;no+mercy+for+bugs;decadence+%26+open+source;build+or+die)](https://git.io/typing-svg)
 
-![Souls](https://komarev.com/ghpvc/?username=esrid&color=red&style=for-the-badge&label=SOULS+COLLECTED)
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=8B0000&height=40&section=header" width="100%"/>
+---
 
 ## <img src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/characters/png/1.png" width="28" align="center"/> Live — ses créations maudites
 
@@ -21,7 +19,7 @@
 | <img src="https://cdn.simpleicons.org/vercel/FF4444" width="18"/> | **[colorterm](http://colorterm.fly.dev)** | Terminal color tool |
 | <img src="https://cdn.simpleicons.org/vercel/CC0000" width="18"/> | **[decouvrez.me](http://decouvrez.me)** | Discovery |
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=8B0000&height=40&section=header" width="100%"/>
+---
 
 ## <img src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/characters/png/1.png" width="28" align="center"/> Stack — ses armes
 
@@ -31,7 +29,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=8B0000&height=40&section=header" width="100%"/>
+---
 
 ## <img src="https://cdn.simpleicons.org/go/CC0000" width="28" align="center"/> Gopherland — le royaume maudit
 
@@ -60,25 +58,17 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=8B0000&height=40&section=header" width="100%"/>
+---
 
 ## <img src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/characters/png/1.png" width="28" align="center"/> Stats — son bilan de sang
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esrid&theme=dracula" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=esrid&theme=dracula" height="160em"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esrid&theme=dracula" height="160em"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=esrid&theme=dracula" height="160em"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=esrid&theme=dark&hide_border=true&background=0D0000&ring=CC0000&fire=8B0000&currStreakLabel=CC0000&sideLabels=FF4444&dates=8B0000&stroke=CC0000&currStreakNum=FF4444&sideNums=CC0000"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=8B0000&height=40&section=header" width="100%"/>
+---
 
 ## <img src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/characters/png/1.png" width="28" align="center"/> Activity — ses crimes
 
@@ -88,7 +78,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=8B0000&height=40&section=header" width="100%"/>
+---
 
 ## <img src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/characters/png/1.png" width="28" align="center"/> Trophies — ses âmes volées
 
@@ -98,7 +88,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=8B0000&height=40&section=header" width="100%"/>
+---
 
 ## <img src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/characters/png/1.png" width="28" align="center"/> Open Source — ses sacrifices
 
@@ -115,7 +105,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=8B0000&height=40&section=header" width="100%"/>
+---
 
 ## <img src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/characters/png/1.png" width="28" align="center"/> Contributions — ses traces de sang
 
