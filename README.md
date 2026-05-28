@@ -18,10 +18,6 @@
 - [decouvrez.me](http://decouvrez.me) — discovery
 
 #### repos
-
-- [boilerplate-sql](https://github.com/esrid/boilerplate-sql)
-- [boilerplate-pg](https://github.com/esrid/boilerplate-pg)
-- [gen](https://github.com/esrid/gen)
 - [watcher](https://github.com/esrid/watcher)
 - [go-odin-comparison](https://github.com/esrid/go-odin-comparison)
 - [js-ref](https://github.com/esrid/js-ref)
