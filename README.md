@@ -13,14 +13,11 @@
 #### projects
 
 - [howifeel.today](http://howifeel.today) — mood tracker
-- [habitarchitect.app](http://habitarchitect.app) — habit builder
 - [colorterm](http://colorterm.fly.dev) — terminal colors
-- [decouvrez.me](http://decouvrez.me) — discovery
 
 #### repos
 - [scaffolder](https://github.com/esrid/scaffold)
 - [watcher](https://github.com/esrid/watcher)
-- [go-odin-comparison](https://github.com/esrid/go-odin-comparison)
 - [js-ref](https://github.com/esrid/js-ref)
 
 ---
